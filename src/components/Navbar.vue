@@ -1,7 +1,7 @@
 <template>
 <body>
     <div class="container">
-      <nav class="navbar navbar-expand-lg navbar-light">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light shadow fixed-top">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">THE TIGER TEAM ACADEMY</a>
           <button
@@ -48,37 +48,11 @@
     </div>
   </div>
 </header>
-  <section id="about" class="about section-padding">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4 col-md-12 col-12">
-          <div class="about-img">
-            <img src="https://www.img.in.th/images/f5e19c974169dfb4e7fbe5d0cd86e5f1.png" style="max-width:180%">
-          </div>
-        </div>
-        <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
-          <div class="about-text">
-            <h2 style="text-shadow: 2px 1px 2px rgba(87, 89, 91, 1);">Inno Preneurship <br>
-                developing entrepreneurial competences
-            </h2>
-            </div>
-        </div>
-      </div>
-    </div>
-    <div class="container section-padding">
-        <div class="row">
-          <div class="about-text">
-            <h2 style="text-shadow: 2px 1px 2px rgba(87, 89, 91, 1);">Foundation</h2>
-          </div>
-          <div class="about-img">
-            <img src="https://static-cse.canva.com/blob/572026/removingbackgroundimages_Unsplash.jpeg" style="max-width:100%">
-          </div>
-        </div>
-    </div>
 
-  </section>
+<section id="section1"></section>
 
-
+<section id="section2"></section>
+  
   </body> 
 </template>
 
@@ -96,9 +70,11 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
 
 body{
-  font-family: 'Fugaz One', cursive;
+  font-family: 'Kanit', sans-serif;
+  padding-top: 45px;
 }
 
 .masthead {
@@ -107,14 +83,11 @@ body{
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-}
-
-header.masthead {
-    background: no-repeat center center;
-    background-color: #f6f8f9;
-    background-attachment: scroll;
-    position: relative;
-    background-size: cover;
+  background: no-repeat center center;
+  background-color: #f6f8f9;
+  background-attachment: scroll;
+  position: relative;
+  background-size: cover;
 }
 
 header {

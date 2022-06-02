@@ -59,7 +59,7 @@
           <div class="row no-gutters">
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title"  style=" text-align:left;">
+                <h5 class="card-title" style=" text-align:left;">
                   <span style="color: rgb(243, 236, 35);"> The Tiger Teams Academy </span>
                   <span> CORPORATION LIMITED </span>
                 </h5>
@@ -71,20 +71,41 @@
                 ในการเขียนโปรแกรมร่วมกับบริษัทในเครือ และยังเป็นผู้ร่วมสร้างองค์กร สานต่อโครงการ นำโอกาสไปเผยแพร่ให้กับบุคคลที่สนใจเข้าร่วมและมีทัศนคติ 
                 จุดมุ่งหมายที่ตรงกับโครงการ
                 </p>
-                <button type="button" data-togglle="modal" data-target="# m_about" class="btn btn-readmore-history-tiger waves-effect waves-light" style="background: rgb(242, 198, 39); text-align: right;">Read more</button>
+                <button type="button" data-togglle="modal" data-target="# m_about" class="btn btn-readmore-history-tiger waves-effect waves-light col-md-4" style="background: rgb(242, 198, 39)">Read more</button>
               </div>
             </div>
             <div class="col-md-4" style="background: rgb(242, 198, 39);">
               <div class="pl-4" style="display: inline-block;">
                 <div class="display-3 md-0" style="text-align: left; color: rgb(187, 161, 136);" >
-                 <p>The Tiger </p>
-                 <p>Team Academy</p>
+                 <p>The Tiger <br>
+                    Team Academy
+                 </p>
                 </div>
                 <h4 class="display-4 mt-0" style="text-align: right; color: white;">About</h4>
               </div>
             </div>
           </div>
         </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="team">
+  <div class="team-area">
+    <div class="container">
+      <div class="row">
+          <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="single-team">
+                  <div class="img-area">
+                    <img src="https://www.brighttv.co.th/wp-content/uploads/2022/03/BTS-Jungkook-1903223.webp" class="img-responsive">
+                  </div>
+                  <div class="img-text">
+                      <h4>Jungkook</h4>
+                      <h5>BTS</h5>
+                  </div>
+                </div>
+          </div>
       </div>
     </div>
   </div>
@@ -176,5 +197,50 @@ header {
 .Supa{
   font-size: 72px;
   text-shadow: 2px 1px 3px rgba(251, 241, 223, 1);
+}
+
+.team{
+  background: #dfedd3;
+}
+
+.team-area{
+  padding-top: 5%;
+}
+
+.single-team{
+  box-shadow:0px 7px 7px 2px rgba(0,0,0,0.1);
+    background-color: white;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.img-area{
+    overflow: hidden;
+    position: relative;
+}
+.img-area img{
+    width: 100%;
+}
+.img-area:hover img{
+    transform: scale(1.2);
+}
+.img-area img{
+    transition: all 0.4s ease 0s;
+}
+.img-text {
+    padding: 25px;
+    color: black;
+    text-align: center;
+}
+.img-text h4{
+    margin: 0 0 5px;
+    font-size: 30px;
+   font-family: sans-serif;
+    letter-spacing: 5px;
+}
+.img-text h5{
+    font-size: 17px;
+    color: #545154
+
 }
 </style>

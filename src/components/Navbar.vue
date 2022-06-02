@@ -49,9 +49,46 @@
   </div>
 </header>
 
-<section id="section1"></section>
-
 <section id="section2"></section>
+
+<section id="section3">
+  <div class="container">
+    <div class="row pt-2">
+      <div class="col-lg-12">
+        <div class="card border-0">
+          <div class="row no-gutters">
+            <div class="col-md-8">
+              <div class="card-body">
+                <h5 class="card-title"  style=" text-align:left;">
+                  <span style="color: rgb(243, 236, 35);"> The Tiger Teams Academy </span>
+                  <span> CORPORATION LIMITED </span>
+                </h5>
+                <p style="text-align:left">
+                โครงการ The Tiger Team Academy เป็นสถานที่สร้างสภาพแวดล้อมให้เหมาะสมกับการสร้างบุคลากร
+                ด้านนวัตกรรมและเทคโนโลยี บ่มเพาะให้เป็นผู้ประกอบการที่มีความสามารถ  นำไปสู่การสร้างชาติเปลี่ยนโลก
+                โดยจะคัดเลือกนักเรียนและนักศึกษาที่มีเป้าหมายเดียวกัน เพื่อเข้าร่วมโครงการ นักศึกษาจะได้ร่วมพัฒนาทักษะด้านการศึกษาให้เกิดความรู้ทั้งในประเทศและนอกประเทศ 
+                ได้รับความรู้เรื่องเทคโนโลยีและการเป็นผู้ประกอบการเป็นภาษาอังกฤษ ทักษะด้านอาชีพที่ผู้เข้าร่วมจะได้สัมผัสกับประสบการณ์ทำงานจริง 
+                ในการเขียนโปรแกรมร่วมกับบริษัทในเครือ และยังเป็นผู้ร่วมสร้างองค์กร สานต่อโครงการ นำโอกาสไปเผยแพร่ให้กับบุคคลที่สนใจเข้าร่วมและมีทัศนคติ 
+                จุดมุ่งหมายที่ตรงกับโครงการ
+                </p>
+                <button type="button" data-togglle="modal" data-target="# m_about" class="btn btn-readmore-history-tiger waves-effect waves-light" style="background: rgb(242, 198, 39); text-align: right;">Read more</button>
+              </div>
+            </div>
+            <div class="col-md-4" style="background: rgb(242, 198, 39);">
+              <div class="pl-4" style="display: inline-block;">
+                <div class="display-3 md-0" style="text-align: left; color: rgb(187, 161, 136);" >
+                 <p>The Tiger </p>
+                 <p>Team Academy</p>
+                </div>
+                <h4 class="display-4 mt-0" style="text-align: right; color: white;">About</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
   
   </body> 
 </template>

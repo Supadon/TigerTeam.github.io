@@ -37,8 +37,7 @@
         </div>
       </nav>
     </div>
-    
-    <header class="masthead" style="background-image: url('https://www.img.in.th/images/3df59849f1b8ff5367181dd7edad6c59.png');">
+<header class="masthead" style="background-image: url('https://www.img.in.th/images/3df59849f1b8ff5367181dd7edad6c59.png');">
   <div class="container h-100">
     <div class="row h-100 align-items-center">
       <div class="col-12 text-center">
@@ -48,7 +47,6 @@
     </div>
   </div>
 </header>
-
 
 <section id="section2">
   <div id="about" style="margin-top: 1px; padding-bottom: 10px;">
@@ -111,7 +109,7 @@
       </div>
     </div>
   </div>
-      </section>
+</section>
 
 <section id="section3">
   <div class="container">
@@ -121,7 +119,7 @@
           <div class="row no-gutters">
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title"  style=" text-align:left;">
+                <h5 class="card-title" style=" text-align:left;">
                   <span style="color: rgb(243, 236, 35);"> The Tiger Teams Academy </span>
                   <span> CORPORATION LIMITED </span>
                 </h5>
@@ -133,20 +131,63 @@
                 ในการเขียนโปรแกรมร่วมกับบริษัทในเครือ และยังเป็นผู้ร่วมสร้างองค์กร สานต่อโครงการ นำโอกาสไปเผยแพร่ให้กับบุคคลที่สนใจเข้าร่วมและมีทัศนคติ 
                 จุดมุ่งหมายที่ตรงกับโครงการ
                 </p>
-                <button type="button" data-togglle="modal" data-target="# m_about" class="btn btn-readmore-history-tiger waves-effect waves-light" style="background: rgb(242, 198, 39); text-align: right;">Read more</button>
+                <button type="button" data-togglle="modal" data-target="# m_about" class="btn btn-readmore-history-tiger waves-effect waves-light col-md-4" style="background: rgb(242, 198, 39)">Read more</button>
               </div>
             </div>
             <div class="col-md-4" style="background: rgb(242, 198, 39);">
               <div class="pl-4" style="display: inline-block;">
                 <div class="display-3 md-0" style="text-align: left; color: rgb(187, 161, 136);" >
-                 <p>The Tiger </p>
-                 <p>Team Academy</p>
+                 <p>The Tiger <br>
+                    Team Academy
+                 </p>
                 </div>
                 <h4 class="display-4 mt-0" style="text-align: right; color: white;">About</h4>
               </div>
             </div>
           </div>
         </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="team">
+  <div class="team-area">
+    <div class="container">
+      <div class="row">
+          <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="single-team">
+                  <div class="img-area">
+                    <img src="../assets/2.png" class="img-responsive">
+                  </div>
+                  <div class="img-text">
+                      <h4>Jungkook</h4>
+                      <h5>BTS</h5>
+                  </div>
+                </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="single-team">
+                  <div class="img-area">
+                    <img src="../assets/3.png" class="img-responsive">
+                  </div>
+                  <div class="img-text">
+                      <h4>Jungkook</h4>
+                      <h5>BTS</h5>
+                  </div>
+                </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="single-team">
+                  <div class="img-area">
+                    <img src="../assets/1.png" class="img-responsive">
+                  </div>
+                  <div class="img-text">
+                      <h4>Jungkook</h4>
+                      <h5>BTS</h5>
+                  </div>
+                </div>
+          </div>
       </div>
     </div>
   </div>
@@ -239,6 +280,50 @@ header {
   text-shadow: 2px 1px 3px rgba(251, 241, 223, 1);
 }
 
+.team{
+  background: #dfedd3;
+}
+
+.team-area{
+  padding-top: 5%;
+}
+
+.single-team{
+  box-shadow:0px 7px 7px 2px rgba(0,0,0,0.1);
+    background-color: white;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.img-area{
+    overflow: hidden;
+    position: relative;
+}
+.img-area img{
+    width: 100%;
+}
+.img-area:hover img{
+    transform: scale(1.2);
+}
+.img-area img{
+    transition: all 0.4s ease 0s;
+    widows: 100%;
+}
+.img-text {
+    padding: 25px;
+    color: black;
+    text-align: center;
+}
+.img-text h4{
+    margin: 0 0 5px;
+    font-size: 30px;
+   font-family: sans-serif;
+    letter-spacing: 5px;
+}
+.img-text h5{
+    font-size: 17px;
+    color: #545154
+}
 .card-tiger{
   background-color: rgb(245, 213, 183);
 }

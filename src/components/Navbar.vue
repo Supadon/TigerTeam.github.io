@@ -37,8 +37,7 @@
         </div>
       </nav>
     </div>
-    
-    <header class="masthead" style="background-image: url('https://www.img.in.th/images/3df59849f1b8ff5367181dd7edad6c59.png');">
+<header class="masthead" style="background-image: url('https://www.img.in.th/images/3df59849f1b8ff5367181dd7edad6c59.png');">
   <div class="container h-100">
     <div class="row h-100 align-items-center">
       <div class="col-12 text-center">
@@ -49,7 +48,68 @@
   </div>
 </header>
 
-<section id="section2"></section>
+<section id="section2">
+  <div id="about" style="margin-top: 1px; padding-bottom: 10px;">
+    <div class="card-tiger p-3">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-5">
+            <div class="card card-tiger-bg-about mt-1">
+              <div class="card-body">
+                <h5 class="card-title">How it Works?</h5>
+                <hr class="hr-card-tiger">
+                <p class="card-text ti-4" style="color: white;">
+                  1.	ต้องการสร้างผู้ประกอบการที่มีความสามารถมาพัฒนาประเทศ เพื่อคืนสู่สังคม
+                </p>
+                <p class="card-text ti-4" style="color: white;">
+                  2.	ต้องการสร้างบุุคลากรที่มีความรู้ความสามารถด้านภาษาและเทคโนโลยีเพื่อที่จะได้นำไปศึกษาต่อในมหาวิทยาลัยชั้นนำของโลก
+                </p>
+                <p class="card-text ti-4" style="color: white;">
+                  3.	สร้างวัฒนธรรมองค์กรให้แข็งแกร่ง 
+                </p>
+                <button type="button" data-toggle="modal" data-target="#basicExampleModel" class="btn btn-readmore-tiger waves-effect waves-light">Read more</button>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-5">
+            <div class="card card-tiger-bg-about mt-1">
+              <div class="card-body">
+                <h5 class="card-title"> Why choose Us? </h5>
+                <hr class="hr-card-tiger">
+                <p class="card-text ti-4" style="color: white;">
+                </p>
+                <button type="button" data-toggle="model" data-target="#why_choose" class="btn btn-readmore-tiger waves-effect waves-light">Read more</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row pt-3">
+          <div class="col-lg-12">
+            <div class="card">
+              <div class="row no-gutterrs">
+                <div class="col-md-7">
+                  <img src="https://c4.wallpaperflare.com/wallpaper/736/26/420/heartbeat-heart-ekg-minimalism-wallpaper-preview.jpg" alt="..." class="card-img-top h-100 card-branner-left-right" style="min-height: 250px;">
+                </div>
+                <div class="col-md-5" style="background: none 0% 0% repeat scroll rgb(68, 68, 68);">
+                  <div class="card-body" style="background: rgb(68, 68, 68);">
+                    <h5 class="card-title" style="color: white;">
+                      <span style="color: yellow;"> THE TIGER TEAM </span>
+                      <br>
+                      <span> ACADEMY</span>
+                    </h5>
+                    <p class="card-text ti-4" style="color: white;">
+                    </p>
+                    <button type="button" data-toggle="model" data-target="#m__history" class="btn btn-readmore-history-2-tiger waves-effect waves-light">Read more </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <section id="section3">
   <div class="container">
@@ -98,7 +158,29 @@
           <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="single-team">
                   <div class="img-area">
-                    <img src="https://www.brighttv.co.th/wp-content/uploads/2022/03/BTS-Jungkook-1903223.webp" class="img-responsive">
+                    <img src="../assets/2.png" class="img-responsive">
+                  </div>
+                  <div class="img-text">
+                      <h4>Jungkook</h4>
+                      <h5>BTS</h5>
+                  </div>
+                </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="single-team">
+                  <div class="img-area">
+                    <img src="../assets/3.png" class="img-responsive">
+                  </div>
+                  <div class="img-text">
+                      <h4>Jungkook</h4>
+                      <h5>BTS</h5>
+                  </div>
+                </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="single-team">
+                  <div class="img-area">
+                    <img src="../assets/1.png" class="img-responsive">
                   </div>
                   <div class="img-text">
                       <h4>Jungkook</h4>
@@ -109,8 +191,7 @@
       </div>
     </div>
   </div>
-</section>
-  
+</section> 
   </body> 
 </template>
 
@@ -226,6 +307,7 @@ header {
 }
 .img-area img{
     transition: all 0.4s ease 0s;
+    widows: 100%;
 }
 .img-text {
     padding: 25px;
@@ -241,6 +323,61 @@ header {
 .img-text h5{
     font-size: 17px;
     color: #545154
+}
+.card-tiger{
+  background-color: rgb(245, 213, 183);
+}
+.p-3 {
+  padding: 1rem !important;
+}
 
+* {
+  font-family: "Kanit", Tahoma, sans-serif;
+}
+
+.card-tiger-bg-about {
+  background-color: #a78d7c !important;
+  color: white;
+}
+
+.btn-readmore-tiger {
+  background-color: #866957;
+  color: white;
+  border: 1px solid white;
+}
+
+.card-branner-left-right {
+  max-height: -webkit-fill-available;
+}
+
+.card-img-top {
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-body {
+  -webkit-box-flex: 1;
+  padding: 1.25rem;
+}
+
+hr.hr-card-tiger {
+  border-top: 2px solid yellow;
+}
+
+.ti-4 {
+  text-indent: 40px;
+}
+
+p {
+  font-family: "Kanit", Tahoma, sans-serif;
+  font-weight: 400;
+  line-height: 1.85;
+}
+
+.btn-readmore-history-2-tiger {
+  background: rgb(68, 68, 68);
+  color: white;
+  border: 1px solid white;
+  border-radius: 12px;
 }
 </style>

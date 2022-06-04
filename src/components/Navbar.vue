@@ -49,11 +49,69 @@
   </div>
 </header>
 
-<section id="section1"></section>
-
 <section id="section2"></section>
+
+<section id="section3"></section>
   
-  </body> 
+<section id="section7">
+  <div class="container">
+    <div class="row pt-2">
+      <div class="col-lg-12">
+        <div class="card  border-0">
+          <div class="row no-gutters">
+            <div class="col-md-5" 
+            style="background: rgb(134, 142, 150);">
+            <img src="" alt="" 
+            class="card-img-top h-100 card-branner-left-right" 
+            style="min-height: 500px;">
+            </div>
+             <div class="col-md-7">
+               <div class="card-body">
+                 <h5 class="card-title"></h5>
+                 <h1>Contact us</h1>
+                  <p class="card-title">
+                    The Tiger Team Academy
+                    <br>
+                    418 หมู่ 11 ซอยบ้านสวนธนพร ตำบล โคกกรวด 
+                    <br>
+                    อำเภอ เมืองนครราชสีมา จังหวัดนครราชสีมา 30280
+                  </p>
+                     <form action="http://localhost:8080/" method="POST" onsubmit="handleFileSubmit(this);">
+                     <input type="hidden" name="_token"
+                     value="URGe0PCF4ZwvXLDhmxfcg3EqvqrKXKjk38SoVZfn">
+                     <div class="form-group">
+                       <label for>Name</label>
+                       <input type="text" name="name"
+                       required="required" class="form-control">
+                     </div>
+                     <div class="form-group">
+                       <label for>E-mail</label>
+                       <input type="text" name="email"
+                       required="required" class="form-control">
+                     </div>
+                     <div class="form-group">
+                       <label for>Tel.</label>
+                       <input type="text" name="phone"
+                       required="required" class="form-control">
+                     </div>
+                     <div class="form-group">
+                       <label for="exampleFormControlTextarea1">Message</label>
+                       <textarea name="message" id="exampleFormControlTextarea1" 
+                       rows="5" class="form-control"></textarea>
+                     </div>
+                     <button type="submit" class="btn bth-sendmail float-right mb-2 waves-effect waves-light">
+                       Send Message
+                       </button>
+                     </form>
+               </div>
+             </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</body>
 </template>
 
 <script>

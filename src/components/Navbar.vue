@@ -192,6 +192,123 @@
     </div>
   </div>
 </section> 
+
+<section>
+  <div id="welfaer" style="background-color:white">
+    <div class="container" >
+      <div class="row pt-2">
+        <h1 class="pl-5">สิ่งที่คุณจะได้รับ</h1>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 p-0 pl-3">
+          <div class="card border-0 card-tiger-bg-picture">
+           <div class="card-body" style="background:rgb(105, 105, 105); min-height: 250px;">
+            <h5 class="card-title">
+              <span class="header-tiger-welfare" style="color:rgb(134, 142, 150)">สิ่งที่จะได้รับ</span>
+              <br>
+              <span class="title-tiger-welfare" style="color: rgb(243, 236, 35);">ด้านผู้ประกอบการ Entrepreneur</span>
+            </h5>
+            <p class="card-text ti-4" style="color:white; text-align: left;">
+              "ได้รับความรู้ด้านการเป็นผู้ประกอบการจากผู้มีประสบการณ์ตรง และบริษัทในเครือ"
+            </p>
+           </div>
+           <div>
+           <img src="https://www.mendetails.com/wp-content/uploads/2021/01/04-%E0%B8%81%E0%B8%8E%E0%B8%9E%E0%B8%B4%E0%B8%8B%E0%B8%8B%E0%B9%88%E0%B8%B2-2-%E0%B8%96%E0%B8%B2%E0%B8%94-two-pizza-rule-office-worker-meeting-jan21.jpg" alt="" class="card-img-top" style="height:250px;">
+           </div> 
+          </div>
+        </div>
+        <div class="col-lg-4 p-0">
+          <div class="card border-0 card-tiger-bg-picture-bottom">
+            <div>
+            <img src="https://digital.ihg.com/is/image/ihg/Conventions_Meeting_480x320" alt="" class="card-img-top" style="height:250px;">
+            </div>
+            <div class="card-body" style="background: rgb(242, 198, 39); min-height: 250px;">
+            <h5 class="card-title">
+              <span class="header-tiger-welfaer" style="color:black">สิ่งที่จะได้รับ</span>
+              <br>
+              <span class="title-tger-welfaer" style="color: white;">ด้านนวัตกรรมและเทคโนโลยี Innovation</span>
+            </h5>
+            <p class="card-text ti-4" style="color:rgb(134, 142, 150); text-align: left;">
+                "ได้ความรู้ด้านนวัตกรรมที่ทันสมัย และได้สัมผัสกับนวัตกรรมและเทคโนโลยีอย่างใกล้ชิด"
+            </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 p-0 pr-3">
+          <div class="card border-0 card-tiger-bg-picture">
+            <div class="card-body" style="background:rgb(105, 105, 105);min-height:250px">
+            <h5 class="card-title">
+              <span class="header-tiger-welfaer" style="color:rgb(134, 142, 150)">สิ่งที่จะได้รับ</span>
+              <br>
+              <span class="title-tiger-welfaer" style="color:rgb(243, 236, 35);">ด้านภาษาต่างประเทศ language</span>
+            </h5>
+            <p class="card-text ti-4" style="color:white; text-align: left;">
+            "ได้รับความรู้ด้านภาษาต่างประเทศควบคู่กับความรู้ด้านเศรษฐศาสตร์ จากนักธุรกิจผู้มีประสบการณ์ด้านต่างประเทศโดยตรง"
+            </p>
+            </div>
+           <div>
+              <img src="https://www.scglogistics.co.th/wp-content/uploads/2020/05/how-to-meeting-effectively.jpg" alt="" class="card-img-top" style="height:250px;">
+           </div>
+          </div>
+        </div>
+        <div class="col-lg-4 p-0 pl-3">
+          <div class="card border-0 card-tiger-bg-picture">
+           <div class="card-body" style="background:rgb(105, 105, 105);  min-height: 250px;">
+            <h5 class="card-title">
+              <span class="header-tiger-welfare" style="color:rgb(134, 142, 150)">สิ่งที่จะได้รับ</span>
+              <br>
+              <span class="title-tiger-welfare" style="color: rgb(243, 236, 35);">ด้านค่าครองชีพ</span>
+              <p class="title-tiger-welfare" style="color:rgb(243, 236, 35);">Income During Study</p>
+            </h5>
+            <p class="card-text ti-4" style="color:white; text-align: left;">
+            "ได้รับทุนค่าครองชีพเมื่อมีความสามารถตามที่บริษัทในเครือกำหนด"
+            </p>
+           </div>
+           <div>
+           <img src="https://s.isanook.com/mn/0/rp/rc/w850h510/yatxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL21uLzAvdWQvOTIvNDY0NDczL21vbjIyMDI2MDIuanBnLmpwZw==.jpg" alt="" class="card-img-top" style="height:250px;">
+           </div> 
+          </div>
+        </div>
+         <div class="col-lg-4 p-0">
+          <div class="card border-0 card-tiger-bg-picture-bottom">
+            <div>
+            <img src="https://st.depositphotos.com/1000917/5157/i/600/depositphotos_51578979-stock-photo-musicians-playing-violins.jpg" alt="" class="card-img-top" style="height:250px;">
+            </div>
+            <div class="card-body" style="background:  rgb(242, 198, 39); min-height: 250px;">
+            <h5 class="card-title">
+              <span class="header-tiger-welfaer" style="color:black">สิ่งที่จะได้รับ</span>
+              <br>
+              <span class="title-tger-welfaer" style="color:white;">ด้านดนตรีและศิลปะ</span>
+              <p class="title-tger-welfaer" style="color: white;">Music And Art</p>
+            </h5>
+            <p class="card-text ti-4" style="color:rgb(134, 142, 150); text-align: left;">
+                "ได้รับการสันทนาการจากการเล่นดนตรีและศิลปะซึ่งสามรถนำมาประยุกต์ในการทำงานได้"
+            </p>
+            </div>
+          </div>
+        </div>
+         <div class="col-lg-4 p-0 pr-3">
+          <div class="card border-0 card-tiger-bg-picture">
+            <div class="card-body" style="background:rgb(105, 105, 105); min-height:250px">
+            <h5 class="card-title">
+              <span class="header-tiger-welfaer" style="color:rgb(134, 142, 150)">สิ่งที่จะได้รับ</span>
+              <br>
+              <span class="title-tiger-welfaer" style="color:rgb(243, 236, 35);">ด้านที่พักอาศัยและอาหาร</span>
+              <p class="title-tiger-welfaer" style="color: rgb(243, 236, 35);">Accommodation And Food</p>
+            </h5>
+            <p class="card-text ti-4" style="color:white; text-align: left;">
+            "ได้รับการดูแลด้านที่พักและด้านอาหารอย่างครบถ้วน"
+            </p>
+            </div>
+           <div>
+              <img src="https://www.toagroup.com/storage/default-album/painting-1-600X315.jpg" alt="" class="card-img-top" style="height:250px;">
+           </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
   </body> 
 </template>
 

@@ -56,16 +56,10 @@
           <div class="col-lg-5">
             <div class="card card-tiger-bg-about mt-1">
               <div class="card-body">
-                <h5 class="card-title">How it Works?</h5>
+                <h5 class="card-title">จุดประสงค์</h5>
                 <hr class="hr-card-tiger">
                 <p class="card-text ti-4" style="color: white;">
-                  1.	ต้องการสร้างผู้ประกอบการที่มีความสามารถมาพัฒนาประเทศ เพื่อคืนสู่สังคม
-                </p>
-                <p class="card-text ti-4" style="color: white;">
-                  2.	ต้องการสร้างบุุคลากรที่มีความรู้ความสามารถด้านภาษาและเทคโนโลยีเพื่อที่จะได้นำไปศึกษาต่อในมหาวิทยาลัยชั้นนำของโลก
-                </p>
-                <p class="card-text ti-4" style="color: white;">
-                  3.	สร้างวัฒนธรรมองค์กรให้แข็งแกร่ง 
+                  ต้องการสร้างผู้ประกอบการที่มีความสามารถมาพัฒนาประเทศ เพื่อคืนสู่สังคม  ต้องการสร้างบุุคลากรที่มีความรู้ความสามารถด้านภาษาและเทคโนโลยีเพื่อที่จะได้นำไปศึกษาต่อในมหาวิทยาลัยชั้นนำของโลก  สร้างวัฒนธรรมองค์กรให้แข็งแกร่ง 
                 </p>
                 <button type="button" data-toggle="modal" data-target="#basicExampleModel" class="btn btn-readmore-tiger waves-effect waves-light">Read more</button>
               </div>
@@ -88,7 +82,7 @@
             <div class="card">
               <div class="row no-gutterrs">
                 <div class="col-md-7">
-                  <img src="https://c4.wallpaperflare.com/wallpaper/736/26/420/heartbeat-heart-ekg-minimalism-wallpaper-preview.jpg" alt="..." class="card-img-top h-100 card-branner-left-right" style="min-height: 250px;">
+                  <img src="https://images.unsplash.com/photo-1530027644375-9c83053d392e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" alt="..." class="card-img-top h-100 card-branner-left-right" style="min-height: 250px;">
                 </div>
                 <div class="col-md-5" style="background: none 0% 0% repeat scroll rgb(68, 68, 68);">
                   <div class="card-body" style="background: rgb(68, 68, 68);">
@@ -120,7 +114,7 @@
             <div class="col-md-8">
               <div class="card-body">
                 <h5 class="card-title" style=" text-align:left;">
-                  <span style="color: rgb(243, 236, 35);"> The Tiger Teams Academy </span>
+                  <span style="color: rgb(204, 102, 051);"> The Tiger Teams Academy </span>
                   <span> CORPORATION LIMITED </span>
                 </h5>
                 <p style="text-align:left">
@@ -134,9 +128,9 @@
                 <button type="button" data-togglle="modal" data-target="# m_about" class="btn btn-readmore-history-tiger waves-effect waves-light col-md-4" style="background: rgb(242, 198, 39)">Read more</button>
               </div>
             </div>
-            <div class="col-md-4" style="background: rgb(242, 198, 39);">
+            <div class="col-md-4" style="background: rgb(255, 153, 000);">
               <div class="pl-4" style="display: inline-block;">
-                <div class="display-3 md-0" style="text-align: left; color: rgb(187, 161, 136);" >
+                <div class="display-3 md-0" style="text-align: left; color: rgb(102, 102, 102);" >
                  <p>The Tiger <br>
                     Team Academy
                  </p>
@@ -192,6 +186,50 @@
     </div>
   </div>
 </section> 
+
+<section id="section-6">
+  <div class="card-tiger-client mt-2">
+    <div class="container">
+      <div class="row pt-2">
+        <div class="col-lg-3 my-auto">
+          <div class="vl pt-2 ml-2 mr-2 pl-2">
+            <h2 style="color: rgb(187, 161, 136);">The Tiger Team</h2>
+          <h4 class="pt-2 pb-2" style="background: rgb(187, 161, 136); color: white;">Client</h4>
+        </div> 
+      </div>
+      <div class="col-lg-9">
+        <div id="multi-item-example" data-ride="carousel" class="carousel slide carousel-multi-item">
+          <div role="listbox" class="carousel-inner">
+            <div class="carousel-item active" style="min-height: 391px;">
+              <div class="row">
+                <div class="col-lg-4">
+                  <img src="https://p4.wallpaperbetter.com/wallpaper/564/98/417/image-nature-desktop-images-1920x1080-wallpaper-preview.jpg" alt="..." class="card-img-top h-100 client-img">
+                </div>
+                <div class="col-lg-4">
+                  <img src="https://media.istockphoto.com/photos/villefranche-on-sea-in-evening-picture-id1145618475?k=20&m=1145618475&s=612x612&w=0&h=_mC6OZt_eWENYUAZz3tLCBTU23uvx5beulDEZHFLsxI=" alt="..." class="card-img-top h-100 client-img">
+                </div>
+                <div class="col-lg-4">
+                  <img src="https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg" alt="..." class="card-img-top h-100 client-img">
+                </div>
+                <div class="col-lg-4">
+                  <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" alt="..." class="card-img-top h-100 client-img">
+                </div>
+                <div class="col-lg-4">
+                  <img src="https://st2.depositphotos.com/1035350/7461/i/950/depositphotos_74611623-stock-photo-jefferson-memorial-in-spring.jpg" alt="..." class="card-img-top h-100 client-img">
+                </div>
+              </div>
+            </div>
+            <ol class="carousel-indicators" style="position: relative;">
+              <li data-target="#multi-item-exaple" data-slide-to="0" class></li>
+              <li data-target="#multi-item-exaple" data-slide-to="1" class="active"></li>
+            </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
   </body> 
 </template>
 
@@ -331,10 +369,6 @@ header {
   padding: 1rem !important;
 }
 
-* {
-  font-family: "Kanit", Tahoma, sans-serif;
-}
-
 .card-tiger-bg-about {
   background-color: #a78d7c !important;
   color: white;
@@ -379,5 +413,26 @@ p {
   color: white;
   border: 1px solid white;
   border-radius: 12px;
+}
+
+.card-tiger-client {
+  background-color: rgb(255, 230, 204);
+}
+
+.vl {
+  border-left: 3px solid #BBA188;
+  height: auto;
+  padding-bottom: 80px;
+}
+
+.client-img {
+  padding: 10px;
+  height: 120px !important;
+  object-fit: fill;
+}
+
+.card-img-top {
+  width: 100%;
+  object-fit: cover;
 }
 </style>

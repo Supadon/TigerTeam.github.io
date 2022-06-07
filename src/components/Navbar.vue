@@ -191,7 +191,65 @@
       </div>
     </div>
   </div>
-</section> 
+</section>
+
+<section id="section7">
+  <div class="container">
+    <div class="contact">
+      <div class="row pt-2">
+        <div class="col-lg-12">
+          <div class="card border-0">
+            <div class="row no-gutters">
+              <div class="col-md-5" style="background:#fff">
+                <img src="../assets/3.png"  class="card-img-top 
+                h-100 card-branner-left-right" style="min-height:500px;">
+                  </div>
+                  <div class="col-md-7">
+                    <div class="card-body">
+                      <h5 class="card-title"></h5>
+                      <h1>Contact us</h1>
+                      <p class="card-text"  span style="color: rgb(134, 142, 150);">
+                        The Tiger Team Academy
+                        <br>
+                        481/15 บ.โปร่งดินสอ ต.โคกกรวด
+                        
+                        อ.เมืองนครราชสีมา จ.นครราชสีมา 30280  
+                      </p>
+                      <form action="" method="POST" onsubmit="handleFileSubmit(this);">
+                        <input type="hidden" name="_token" value="URGe0PCF4ZwvXLdhmxfcg3EqvqrKxKjk38SoVZfn">
+                        <div class="form-group">
+                          <label for class="">Name</label>
+                          <input type="text" name="name" required="required"
+                          class="form-control">
+                        </div>
+                        <div class="form-group">
+                          <label for>E-mail</label>
+                         <input type="email" name="email"  required=" required" class="form-control" >
+                         </div>
+                        
+                        <div class="form-group">
+                          <label for>Tel.</label>
+                          <input type="text" name="phone" required=" required"
+                          class="form-control">
+                        </div>
+                          <div class="form-group">
+                            <label for="exampleFormControlTextarea1">Message</label>
+                            <textarea name="message" id="exampleFormControlTextarea1"  
+                            rows="5" class="form-control" placeholder="Disabled input"></textarea>
+                          </div>
+                          <button type="submit" class="btn btn-sendmail-knacx float-right mb-2 waves-dffect waves-light"  style="background: rgb(242, 198, 39)">SEND MESSAGE</button>                   
+                      </form>
+                    </div>
+                  </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
   </body> 
 </template>
 
@@ -380,4 +438,24 @@ p {
   border: 1px solid white;
   border-radius: 12px;
 }
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+
+body {
+    margin: 0;
+    line-height: 1.6;
+    text-align: left;
+}
+
+.float-right {
+    float: right !important;
+}
+
 </style>

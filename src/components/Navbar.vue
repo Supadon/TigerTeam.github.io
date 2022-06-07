@@ -125,10 +125,10 @@
                 ในการเขียนโปรแกรมร่วมกับบริษัทในเครือ และยังเป็นผู้ร่วมสร้างองค์กร สานต่อโครงการ นำโอกาสไปเผยแพร่ให้กับบุคคลที่สนใจเข้าร่วมและมีทัศนคติ 
                 จุดมุ่งหมายที่ตรงกับโครงการ
                 </p>
-                <button type="button" data-togglle="modal" data-target="# m_about" class="btn btn-readmore-history-tiger waves-effect waves-light col-md-4" style="background: rgb(242, 198, 39)">Read more</button>
+                <button type="button" data-togglle="modal" data-target="# m_about" class="btn btn-readmore-history-tiger waves-effect waves-light col-md-4" style="background: rgb(235, 151, 43)">Read more</button>
               </div>
             </div>
-            <div class="col-md-4" style="background: rgb(255, 153, 000);">
+            <div class="col-md-4" style="background: rgb(255, 180, 85);">
               <div class="pl-4" style="display: inline-block;">
                 <div class="display-3 md-0" style="text-align: left; color: rgb(102, 102, 102);" >
                  <p>The Tiger <br>
@@ -185,50 +185,6 @@
       </div>
     </div>
   </div>
-</section> 
-
-<section id="section-6">
-  <div class="card-tiger-client mt-2">
-    <div class="container">
-      <div class="row pt-2">
-        <div class="col-lg-3 my-auto">
-          <div class="vl pt-2 ml-2 mr-2 pl-2">
-            <h2 style="color: rgb(187, 161, 136);">The Tiger Team</h2>
-          <h4 class="pt-2 pb-2" style="background: rgb(187, 161, 136); color: white;">Client</h4>
-        </div> 
-        </div>
-      </div>
-      <div class="col-lg-9">
-        <div id="multi-item-example" data-ride="carousel" class="carousel slide carousel-multi-item">
-          <div role="listbox" class="carousel-inner">
-            <div class="carousel-item active" style="min-height: 391px;">
-              <div class="row">
-                <div class="col-lg-4">
-                  <img src="https://p4.wallpaperbetter.com/wallpaper/564/98/417/image-nature-desktop-images-1920x1080-wallpaper-preview.jpg" alt="..." class="card-img-top h-100 client-img">
-                </div>
-                <div class="col-lg-4">
-                  <img src="https://media.istockphoto.com/photos/villefranche-on-sea-in-evening-picture-id1145618475?k=20&m=1145618475&s=612x612&w=0&h=_mC6OZt_eWENYUAZz3tLCBTU23uvx5beulDEZHFLsxI=" alt="..." class="card-img-top h-100 client-img">
-                </div>
-                <div class="col-lg-4">
-                  <img src="https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg" alt="..." class="card-img-top h-100 client-img">
-                </div>
-                <div class="col-lg-4">
-                  <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" alt="..." class="card-img-top h-100 client-img">
-                </div>
-                <div class="col-lg-4">
-                  <img src="https://st2.depositphotos.com/1035350/7461/i/950/depositphotos_74611623-stock-photo-jefferson-memorial-in-spring.jpg" alt="..." class="card-img-top h-100 client-img">
-                </div>
-              </div>
-            </div>
-            <ol class="carousel-indicators" style="position: relative;">
-              <li data-target="#multi-item-exaple" data-slide-to="0" class></li>
-              <li data-target="#multi-item-exaple" data-slide-to="1" class="active"></li>
-            </ol>
-            </div>
-          </div>
-        </div>
-    </div>
-  </div>
 </section>
 <section>
   <div id="welfaer" style="background-color:white">
@@ -243,7 +199,7 @@
             <h5 class="card-title">
               <span class="header-tiger-welfare" style="color:rgb(134, 142, 150)">สิ่งที่จะได้รับ</span>
               <br>
-              <span class="title-tiger-welfare" style="color: rgb(243, 236, 35);">ด้านผู้ประกอบการ Entrepreneur</span>
+              <span class="title-tiger-welfare" style="color: rgb(248, 184, 150);">ด้านผู้ประกอบการ Entrepreneur</span>
             </h5>
             <p class="card-text ti-4" style="color:white; text-align: left;">
               "ได้รับความรู้ด้านการเป็นผู้ประกอบการจากผู้มีประสบการณ์ตรง และบริษัทในเครือ"
@@ -259,7 +215,7 @@
             <div>
             <img src="https://digital.ihg.com/is/image/ihg/Conventions_Meeting_480x320" alt="" class="card-img-top" style="height:250px;">
             </div>
-            <div class="card-body" style="background: rgb(242, 198, 39); min-height: 250px;">
+            <div class="card-body" style="background: rgb(250, 187, 105); min-height: 250px;">
             <h5 class="card-title">
               <span class="header-tiger-welfaer" style="color:black">สิ่งที่จะได้รับ</span>
               <br>
@@ -277,7 +233,7 @@
             <h5 class="card-title">
               <span class="header-tiger-welfaer" style="color:rgb(134, 142, 150)">สิ่งที่จะได้รับ</span>
               <br>
-              <span class="title-tiger-welfaer" style="color:rgb(243, 236, 35);">ด้านภาษาต่างประเทศ language</span>
+              <span class="title-tiger-welfaer" style="color:rgb(248, 184, 150);">ด้านภาษาต่างประเทศ language</span>
             </h5>
             <p class="card-text ti-4" style="color:white; text-align: left;">
             "ได้รับความรู้ด้านภาษาต่างประเทศควบคู่กับความรู้ด้านเศรษฐศาสตร์ จากนักธุรกิจผู้มีประสบการณ์ด้านต่างประเทศโดยตรง"
@@ -294,7 +250,7 @@
             <h5 class="card-title">
               <span class="header-tiger-welfare" style="color:rgb(134, 142, 150)">สิ่งที่จะได้รับ</span>
               <br>
-              <span class="title-tiger-welfare" style="color: rgb(243, 236, 35);">ด้านค่าครองชีพ</span>
+              <span class="title-tiger-welfare" style="color: rgb(248, 184, 150);">ด้านค่าครองชีพ</span>
               <p class="title-tiger-welfare" style="color:rgb(243, 236, 35);">Income During Study</p>
             </h5>
             <p class="card-text ti-4" style="color:white; text-align: left;">
@@ -311,7 +267,7 @@
             <div>
             <img src="https://st.depositphotos.com/1000917/5157/i/600/depositphotos_51578979-stock-photo-musicians-playing-violins.jpg" alt="" class="card-img-top" style="height:250px;">
             </div>
-            <div class="card-body" style="background:  rgb(242, 198, 39); min-height: 250px;">
+            <div class="card-body" style="background:  rgb(250, 187, 105); min-height: 250px;">
             <h5 class="card-title">
               <span class="header-tiger-welfaer" style="color:black">สิ่งที่จะได้รับ</span>
               <br>
@@ -330,7 +286,7 @@
             <h5 class="card-title">
               <span class="header-tiger-welfaer" style="color:rgb(134, 142, 150)">สิ่งที่จะได้รับ</span>
               <br>
-              <span class="title-tiger-welfaer" style="color:rgb(243, 236, 35);">ด้านที่พักอาศัยและอาหาร</span>
+              <span class="title-tiger-welfaer" style="color:rgb(248, 184, 150);">ด้านที่พักอาศัยและอาหาร</span>
               <p class="title-tiger-welfaer" style="color: rgb(243, 236, 35);">Accommodation And Food</p>
             </h5>
             <p class="card-text ti-4" style="color:white; text-align: left;">
@@ -342,11 +298,69 @@
            </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>
 </section>
+
+<section id="section7">
+  <div class="container">
+    <div class="contact">
+      <div class="row pt-2">
+        <div class="col-lg-12">
+          <div class="card border-0">
+            <div class="row no-gutters">
+              <div class="col-md-5" style="background:#fff">
+                <img src="../assets/3.png"  class="card-img-top 
+                h-100 card-branner-left-right" style="min-height:500px;">
+                  </div>
+                  <div class="col-md-7">
+                    <div class="card-body">
+                      <h5 class="card-title"></h5>
+                      <h1>Contact us</h1>
+                      <p class="card-text"  span style="color: rgb(134, 142, 150);">
+                        The Tiger Team Academy
+                        <br>
+                        481/15 บ.โปร่งดินสอ ต.โคกกรวด
+                        
+                        อ.เมืองนครราชสีมา จ.นครราชสีมา 30280  
+                      </p>
+                      <form action="" method="POST" onsubmit="handleFileSubmit(this);">
+                        <input type="hidden" name="_token" value="URGe0PCF4ZwvXLdhmxfcg3EqvqrKxKjk38SoVZfn">
+                        <div class="form-group">
+                          <label for class="">Name</label>
+                          <input type="text" name="name" required="required"
+                          class="form-control">
+                        </div>
+                        <div class="form-group">
+                          <label for>E-mail</label>
+                         <input type="email" name="email"  required=" required" class="form-control" >
+                         </div>
+                        
+                        <div class="form-group">
+                          <label for>Tel.</label>
+                          <input type="text" name="phone" required=" required"
+                          class="form-control">
+                        </div>
+                          <div class="form-group">
+                            <label for="exampleFormControlTextarea1">Message</label>
+                            <textarea name="message" id="exampleFormControlTextarea1"  
+                            rows="5" class="form-control" placeholder="Disabled input"></textarea>
+                          </div>
+                          <button type="submit" class="btn btn-sendmail-knacx float-right mb-2 waves-dffect waves-light"  style="background: rgb(242, 198, 39)">SEND MESSAGE</button>                   
+                      </form>
+                    </div>
+                  </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> 
+
+
+
   </body> 
 </template>
 
@@ -480,19 +494,19 @@ header {
     color: #545154
 }
 .card-tiger{
-  background-color: rgb(245, 213, 183);
+  background-color: rgb(255, 212, 152);
 }
 .p-3 {
   padding: 1rem !important;
 }
 
 .card-tiger-bg-about {
-  background-color: #a78d7c !important;
+  background-color: #c19b5a !important;
   color: white;
 }
 
 .btn-readmore-tiger {
-  background-color: #866957;
+  background-color: #7a643d;
   color: white;
   border: 1px solid white;
 }
@@ -532,24 +546,19 @@ p {
   border-radius: 12px;
 }
 
-.card-tiger-client {
-  background-color: rgb(255, 230, 204);
+label {
+    display: inline-block;
+    margin-bottom: 0.5rem;
 }
 
-.vl {
-  border-left: 3px solid #BBA188;
-  height: auto;
-  padding-bottom: 80px;
+body {
+    margin: 0;
+    line-height: 1.6;
+    text-align: left;
 }
 
-.client-img {
-  padding: 10px;
-  height: 120px !important;
-  object-fit: fill;
+.float-right {
+    float: right !important;
 }
 
-.card-img-top {
-  width: 100%;
-  object-fit: cover;
-}
 </style>

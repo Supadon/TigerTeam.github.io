@@ -58,24 +58,3 @@ a {
   color: #42b983;
 }
 </style>
-
-<Section>
-    <div>
-      <div>
-        <div role="listbox" class="" style="max-height: 650px !important; width: 100%;">
-          <div style="max-height: 650px; width: 100%;">
-              <div style="width: 100%;">
-                <img src="https://sv1.picz.in.th/images/2022/05/24/HP1N4P.png" alt="HP1N4P.png" style="width: 100%;"/>
-                <div class="mask"></div>
-              </div>
-              <div class="carousel-caption tex-center">
-                <div>
-                  <h1>Move Thailand</h1>
-                  <h1>Change The Wolrd</h1>
-                </div>
-              </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </Section>

@@ -195,7 +195,7 @@
 
 <section>
   <div id="welfaer" style="background-color:white">
-    <div class="container" >
+    <div class="container">
       <div class="row pt-2">
         <h1 class="pl-5">สิ่งที่คุณจะได้รับ</h1>
       </div>
@@ -229,7 +229,7 @@
               <span class="title-tger-welfaer" style="color: white;">ด้านนวัตกรรมและเทคโนโลยี Innovation</span>
             </h5>
             <p class="card-text ti-4" style="color:rgb(134, 142, 150); text-align: left;">
-                "ได้ความรู้ด้านนวัตกรรมที่ทันสมัย และได้สัมผัสกับนวัตกรรมและเทคโนโลยีอย่างใกล้ชิด"
+              "ได้ความรู้ด้านนวัตกรรมที่ทันสมัย และได้สัมผัสกับนวัตกรรมและเทคโนโลยีอย่างใกล้ชิด"
             </p>
             </div>
           </div>

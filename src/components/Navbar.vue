@@ -310,61 +310,55 @@
   </div>
 </section>
 
-<section id="section7">
-  <div class="container">
-    <div class="contact">
-      <div class="row pt-2">
-        <div class="col-lg-12">
-          <div class="card border-0">
-            <div class="row no-gutters">
-              <div class="col-md-5" style="background:#fff">
-                <img src="../assets/3.png"  class="card-img-top 
-                h-100 card-branner-left-right" style="min-height:500px;">
-                  </div>
-                  <div class="col-md-7">
-                    <div class="card-body">
-                      <h5 class="card-title"></h5>
-                      <h1>Contact us</h1>
-                      <p class="card-text"  span style="color: rgb(134, 142, 150);">
-                        The Tiger Team Academy
-                        <br>
-                        481/15 บ.โปร่งดินสอ ต.โคกกรวด
-                        
-                        อ.เมืองนครราชสีมา จ.นครราชสีมา 30280  
-                      </p>
-                      <form action="" method="POST" onsubmit="handleFileSubmit(this);">
-                        <input type="hidden" name="_token" value="URGe0PCF4ZwvXLdhmxfcg3EqvqrKxKjk38SoVZfn">
-                        <div class="form-group">
-                          <label for class="">Name</label>
-                          <input type="text" name="name" required="required"
-                          class="form-control">
-                        </div>
-                        <div class="form-group">
-                          <label for>E-mail</label>
-                         <input type="email" name="email"  required=" required" class="form-control" >
-                         </div>
-                        
-                        <div class="form-group">
-                          <label for>Tel.</label>
-                          <input type="text" name="phone" required=" required"
-                          class="form-control">
-                        </div>
-                          <div class="form-group">
-                            <label for="exampleFormControlTextarea1">Message</label>
-                            <textarea name="message" id="exampleFormControlTextarea1"  
-                            rows="5" class="form-control" placeholder="Disabled input"></textarea>
-                          </div>
-                          <button type="submit" class="btn btn-sendmail-knacx float-right mb-2 waves-dffect waves-light"  style="background: rgb(242, 198, 39)">SEND MESSAGE</button>                   
-                      </form>
-                    </div>
-                  </div>
-            </div>
-          </div>
+<section7>
+ <div class="container">
+   <div class="content">
+     <div class="left-side">
+       <div class="address details">
+         <i class="fas fa-map-marker-alt"></i>
+         <div class="topic">Address</div>
+         <div class="text-one">481/15 บ.โปร่งดินสอ ต.โคกกรวด</div>
+         <div class="text-two">อ.เมืองนครราชสีมา จ.นครราชสีมา 30280</div>
+       </div>
+
+       <div class="phone details">
+         <i class="fas fa-phone-alt"></i>
+         <div class="topic">Phone</div>
+         <div class="text-one">061-096-3992</div>
+         <div class="text-two">คุณนิธิกร</div>
+       </div>
+
+       <div class="email details">
+         <i class="fas fa-envelope"></i>
+         <div class="topic">Emai</div>
+         <div class="text-one">nitikornchumnankul@gmail.com</div>
+       </div>   
+     </div>
+     <div class="right-side">
+       <div class="topic-text">Contact us</div>
+       <h6>หากคุณมีข้อสงสัยอะไร สามารถโทรหาเราเลย เรายินดีที่จะช่วยเหลือคุณ เราจะติดต่อกลับหาคุณโดยเร็ว </h6>
+     
+     <form action="">  
+        <div class="form-group">
+          <input type="text" name="name" required="required" class="form-control" placeholder="Enter your name">
         </div>
-      </div>
-    </div>
-  </div>
-</section> 
+        <div class="form-group">
+          <input type="email" name="email"  required=" required" class="form-control" placeholder="Enter your Email" >
+        </div>
+                        
+        <div class="form-group">
+           <input type="text" name="phone" required=" required" class="form-control" placeholder="Enter your number " >
+        </div>
+        <div class="form-group">
+            <textarea name="message" id="exampleFormControlTextarea1"  
+             rows="5" class="form-control" placeholder="Enter your massage"></textarea>
+        </div>
+         <button type="submit" class="btn" >SEND MESSAGE</button>
+      </form>
+     </div>
+   </div>
+ </div>
+</section7>
 
 
 
@@ -557,23 +551,133 @@ p {
   border-radius: 12px;
 }
 
-.form-group {
-    margin-bottom: 1rem;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-label {
-    display: inline-block;
-    margin-bottom: 0.5rem;
+section7{
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  background: #0097a7; 
+  align-items: center;
+  justify-content: space-between;
 }
 
-body {
-    margin: 0;
-    line-height: 1.6;
-    text-align: left;
+.content{
+  width: 100%;
+  display: flex;
+  background: #fff;
+  border-radius: 15px;
+  padding: 20px 60px 30px 40px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
 
-.float-right {
-    float: right !important;
+ .left-side{
+  width:  25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+  position: relative; 
+}
+
+.left-side::before{
+  content: '';
+  position: absolute;
+  height: 70%;
+  width: 2px;
+  right: -15px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgb(172, 253, 172);
+}
+
+.left-side .details{
+  margin: 14px;
+  text-align: center}
+
+ .left-side .details i{
+  font-size: 20px;
+  color: #f59457;
+  margin-bottom: 10px;
+  }
+
+ .left-side .details .topic{
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.left-side .details .text-one,.left-side .details .text-two{
+  font-size: 14px;
+  color: #afafb6;
+}
+
+.right-side{
+  width: 75%;
+  margin-left: 75px;
+}
+
+.topic-text{
+ font-size: 35px;
+ color:#f59457 ;
+}
+
+.form-group input,
+.form-group textarea{
+  width: 100%;
+  margin-top: 1.5rem;
+  margin-bottom:1rem;
+  border-style: dashed;
+  font-size: 18px;
+  background: #e8ebf7;
+  border-radius: 6px;
+  padding: 0 15px;
+  resize: none;
+}
+
+.btn{
+  background-color: #e65100;
+  color: #fff;
+  padding: 9px 15px; 
+  border-radius: 6px;
+}
+
+
+
+@media (max-width: 950px) {
+  .container{
+    width: 90%;
+    padding: 30px 40px 40px 35px ;
+  }
+  .content .right-side{
+   width: 75%;
+   margin-left: 55px;
+}
+}
+
+@media (max-width: 820px) {
+  
+  .content{
+    flex-direction: column-reverse;
+  }
+  .content .left-side{
+   width: 100%;
+   flex-direction: row;
+   margin-top: 40px;
+   justify-content: center;
+   flex-wrap: wrap;
+  }
+  .content .left-side::before{
+   display: none;
+  }
+ .content .right-side{
+   width: 100%;
+   margin-left: 0;
+  }
 }
 
 </style>

@@ -290,7 +290,7 @@
      <div class="left-side">
        <div class="address details">
          <i class="fas fa-map-marker-alt"></i>
-         <div class="topic">Address</div>
+         <div class="topic" >Address</div>
          <div class="text-one">481/15 บ.โปร่งดินสอ ต.โคกกรวด</div>
          <div class="text-two">อ.เมืองนครราชสีมา จ.นครราชสีมา 30280</div>
        </div>

@@ -267,7 +267,7 @@
             <h5 class="card-title">
               <span class="header-tiger-welfaer" style="color:rgb(134, 142, 150)">สิ่งที่จะได้รับ</span>
               <br>
-              <span class="title-tiger-welfaer" style="color:rgb(248, 184, 150);">ด้านที่พักอาศัยและอาหาร</span>
+              <span class="title-tiger-welfaer" style="color:rgb(248, 184, 150);">ด้านที่พักอาศัยและอาหาร </span>
               <p class="title-tiger-welfaer" style="color: rgb(243, 236, 35);">Accommodation And Food</p>
             </h5>
             <p class="card-text ti-4" style="color:white; text-align: left;">

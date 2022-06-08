@@ -49,7 +49,7 @@
 </header>
 
 <section id="section2">
-  <div id="about" style="margin-top: 1px; padding-bottom: 10px;">
+  <div id="about" style="margin-top: 1px; padding-bottom: 0;">
     <div class="card-tiger p-3">
       <div class="container">
         <div class="row justify-content-center">
@@ -105,41 +105,18 @@
   </div>
 </section>
 
-<section id="section3">
-  <div class="container">
-    <div class="row pt-2">
-      <div class="col-lg-12">
-        <div class="card border-0">
-          <div class="row no-gutters">
-            <div class="col-md-8">
-              <div class="card-body">
-                <h5 class="card-title" style=" text-align:left;">
-                  <span style="color: rgb(204, 102, 051);"> The Tiger Teams Academy </span>
-                  <span> CORPORATION LIMITED </span>
-                </h5>
-                <p style="text-align:left">
-                โครงการ The Tiger Team Academy เป็นสถานที่สร้างสภาพแวดล้อมให้เหมาะสมกับการสร้างบุคลากร
-                ด้านนวัตกรรมและเทคโนโลยี บ่มเพาะให้เป็นผู้ประกอบการที่มีความสามารถ  นำไปสู่การสร้างชาติเปลี่ยนโลก
-                โดยจะคัดเลือกนักเรียนและนักศึกษาที่มีเป้าหมายเดียวกัน เพื่อเข้าร่วมโครงการ นักศึกษาจะได้ร่วมพัฒนาทักษะด้านการศึกษาให้เกิดความรู้ทั้งในประเทศและนอกประเทศ 
-                ได้รับความรู้เรื่องเทคโนโลยีและการเป็นผู้ประกอบการเป็นภาษาอังกฤษ ทักษะด้านอาชีพที่ผู้เข้าร่วมจะได้สัมผัสกับประสบการณ์ทำงานจริง 
-                ในการเขียนโปรแกรมร่วมกับบริษัทในเครือ และยังเป็นผู้ร่วมสร้างองค์กร สานต่อโครงการ นำโอกาสไปเผยแพร่ให้กับบุคคลที่สนใจเข้าร่วมและมีทัศนคติ 
-                จุดมุ่งหมายที่ตรงกับโครงการ
-                </p>
-                <button type="button" data-togglle="modal" data-target="# m_about" class="btn btn-readmore-history-tiger waves-effect waves-light col-md-4" style="background: rgb(235, 151, 43)">Read more</button>
-              </div>
-            </div>
-            <div class="col-md-4" style="background: rgb(255, 180, 85);">
-              <div class="pl-4" style="display: inline-block;">
-                <div class="display-3 md-0" style="text-align: left; color: rgb(102, 102, 102);" >
-                 <p>The Tiger <br>
-                    Team Academy
-                 </p>
-                </div>
-                <h4 class="display-4 mt-0" style="text-align: right; color: white;">About</h4>
-              </div>
-            </div>
-          </div>
-        </div>
+<section class="makhan"  id="section3">
+<div class="container-1">
+    <div class="left"></div>
+    <div class="right">
+      <div class="content">
+        <h2>The Tiger <br>Team Academy <p>"About"</p></h2>
+        <p>โครงการ The Tiger Team Academy เป็นสถานที่สร้างสภาพแวดล้อมให้เหมาะสมกับการสร้างบุคลากร
+        ด้านนวัตกรรมและเทคโนโลยี บ่มเพาะให้เป็นผู้ประกอบการที่มีความสามารถ  นำไปสู่การสร้างชาติเปลี่ยนโลก
+        โดยจะคัดเลือกนักเรียนและนักศึกษาที่มีเป้าหมายเดียวกัน เพื่อเข้าร่วมโครงการ นักศึกษาจะได้ร่วมพัฒนาทักษะด้านการศึกษาให้เกิดความรู้ทั้งในประเทศและนอกประเทศ 
+        ได้รับความรู้เรื่องเทคโนโลยีและการเป็นผู้ประกอบการเป็นภาษาอังกฤษ ทักษะด้านอาชีพที่ผู้เข้าร่วมจะได้สัมผัสกับประสบการณ์ทำงานจริง 
+        ในการเขียนโปรแกรมร่วมกับบริษัทในเครือ และยังเป็นผู้ร่วมสร้างองค์กร สานต่อโครงการ นำโอกาสไปเผยแพร่ให้กับบุคคลที่สนใจเข้าร่วมและมีทัศนคติ 
+        จุดมุ่งหมายที่ตรงกับโครงการ</p>
       </div>
     </div>
   </div>
@@ -393,7 +370,7 @@ body{
   background-repeat: no-repeat;
   background: no-repeat center center;
   background-color: #f6f8f9;
-  background-attachment: scroll;
+  background-attachment: fixedอ;
   position: relative;
   background-size: cover;
 }
@@ -560,5 +537,73 @@ body {
 .float-right {
     float: right !important;
 }
+.makhan {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #FBD4AD;
+}
+.container-1 {
+  width: 90%;
+  max-width: 1000px;
+  margin: 50px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.left {
+  width: 50%;
+  height: 600px;
+  background: url(https://p-u.popcdn.net/blogs/covers/000/000/530/cover/00_Blog_Cover.jpg?1584603833); 
+  border-radius: 8px;
+}
+.right {
+  width: 50%;
+  min-height: 400px;
+  background-color: #F8D7c1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  border-radius: 8px;
+  color: white;
+  margin-left: -150px;
+}
 
+.right h2 {
+  font-size: 40px;
+  font-weight: lighter;
+  color: #d78136;
+}
+
+.right span {
+  font-size: 30px;
+  font-weight: lighter;
+  color: #26231f;
+}
+
+.right p {
+  margin: 20px 0;
+  font-weight: 500;
+  line-height: 25px;
+  color: #6d6a6d;
+}
+@media only screen and (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    width: 100%;
+    margin: 0 20px;
+  }
+  .left {
+    width: 100%;
+    height: 400px;
+  }
+  .right {
+    width: 90%;
+    margin: 0;
+    margin-top: -100px;
+  }
+}
 </style>

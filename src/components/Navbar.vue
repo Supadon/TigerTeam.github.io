@@ -535,6 +535,16 @@ label {
     float: right !important;
 }
 
+body {
+    margin: 0;
+    line-height: 1.6;
+    text-align: left;
+}
+
+.float-right {
+    float: right !important;
+}
+
 .makhan {
   min-height: 100vh;
   width: 100%;
@@ -646,6 +656,7 @@ label {
     margin-top: -100px;
   }
 }
+
 *{
   margin: 0;
   padding: 0;

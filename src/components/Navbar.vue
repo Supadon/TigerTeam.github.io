@@ -41,8 +41,10 @@
   <div class="container h-100">
     <div class="row h-100 align-items-center">
       <div class="col-12 text-center">
-        <h1 class="text-white Supa">Move Thailand</h1>
-        <h1 class="text-white Supa">Change The Wolrd</h1>
+        <h1 class="text-white Supa animated animatedFadeInUp fadeInUp">Move Thailand <br>
+                                    Change The World
+        </h1>
+        
       </div>
     </div>
   </div>
@@ -124,16 +126,29 @@
 
 <section class="team">
   <div class="team-area">
+    
     <div class="container">
+      <div class="title-team">
+        <h1>The Three Founders</h1>
+        </div>
       <div class="row">
+          <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="single-team">
+                  <div class="img-area">
+                    <img src="../assets/1.png" class="img-responsive" style="max-width: 1000px;">
+                  </div>
+                  <div class="img-text">
+                      <h4>รศ.ดร.ธนิต <br> ผิวนิ่ม</h4>
+                  </div>
+                </div>
+          </div>
           <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="single-team">
                   <div class="img-area">
                     <img src="../assets/2.png" class="img-responsive">
                   </div>
                   <div class="img-text">
-                      <h4>Jungkook</h4>
-                      <h5>BTS</h5>
+                      <h4>คุณวิรัช <br> ศรีพัฒนาสกุล</h4>
                   </div>
                 </div>
           </div>
@@ -143,26 +158,15 @@
                     <img src="../assets/3.png" class="img-responsive">
                   </div>
                   <div class="img-text">
-                      <h4>Jungkook</h4>
-                      <h5>BTS</h5>
-                  </div>
-                </div>
-          </div>
-          <div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="single-team">
-                  <div class="img-area">
-                    <img src="../assets/1.png" class="img-responsive">
-                  </div>
-                  <div class="img-text">
-                      <h4>Jungkook</h4>
-                      <h5>BTS</h5>
+                      <h4>รศ.ดร.วรวัฒน์ <br> มีวาสนา</h4>
                   </div>
                 </div>
           </div>
       </div>
     </div>
   </div>
-</section>
+</section> 
+
 <section>
   <div id="welfaer" style="background-color:white">
     <div class="container">
@@ -335,9 +339,6 @@
     </div>
   </div>
 </section> 
-
-
-
   </body> 
 </template>
 
@@ -355,7 +356,7 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;500;600;700;800;900&display=swap');
 
 body{
   font-family: 'Kanit', sans-serif;
@@ -440,6 +441,11 @@ header {
     margin-bottom: 10px;
     margin-left: 10px;
 }
+.title-team{
+  text-align: center;
+  padding-bottom: 20px;
+  
+}
 
 .img-area{
     overflow: hidden;
@@ -463,12 +469,12 @@ header {
 .img-text h4{
     margin: 0 0 5px;
     font-size: 30px;
-   font-family: sans-serif;
     letter-spacing: 5px;
 }
 .img-text h5{
     font-size: 17px;
-    color: #545154
+    color: #545154;
+    
 }
 .card-tiger{
   background-color: rgb(255, 212, 152);
@@ -570,6 +576,45 @@ body {
   border-radius: 8px;
   color: white;
   margin-left: -150px;
+}
+
+@keyframes fadeInUp {
+    from {
+        transform: translate3d(0,40px,0)
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes fadeInUp {
+    from {
+        transform: translate3d(0,40px,0)
+    }
+
+    to {
+        transform: translate3d(0,0,0);
+        opacity: 1
+    }
+}
+
+.animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-fill-mode: both
+}
+
+.animatedFadeInUp {
+    opacity: 0
+}
+
+.fadeInUp {
+    opacity: 0;
+    animation-name: fadeInUp;
+    -webkit-animation-name: fadeInUp;
 }
 
 .right h2 {

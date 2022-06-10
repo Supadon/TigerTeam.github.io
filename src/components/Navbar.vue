@@ -42,63 +42,109 @@
     <div class="row h-100 align-items-center">
       <div class="col-12 text-center">
         <h1 class="text-white Supa animated animatedFadeInUp fadeInUp">Move Thailand <br>
-                                    Change The World
+                                                                      Change The World
         </h1>
-        
-      </div>
+        </div>
     </div>
   </div>
 </header>
 
 <section id="section2">
-  <div id="about" style="margin-top: 1px; padding-bottom: 0;">
-    <div class="card-tiger p-3">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-5">
-            <div class="card card-tiger-bg-about mt-1">
-              <div class="card-body">
-                <h5 class="card-title">จุดประสงค์</h5>
-                <hr class="hr-card-tiger">
-                <p class="card-text ti-4" style="color: white;">
-                  ต้องการสร้างผู้ประกอบการที่มีความสามารถมาพัฒนาประเทศ เพื่อคืนสู่สังคม  ต้องการสร้างบุุคลากรที่มีความรู้ความสามารถด้านภาษาและเทคโนโลยีเพื่อที่จะได้นำไปศึกษาต่อในมหาวิทยาลัยชั้นนำของโลก  สร้างวัฒนธรรมองค์กรให้แข็งแกร่ง 
-                </p>
-                <button type="button" data-toggle="modal" data-target="#basicExampleModel" class="btn btn-readmore-tiger waves-effect waves-light">Read more</button>
-              </div>
+  <div class="container-xxl py-6-2">
+    <div class="container">
+      <div class="row g-5">
+        <div class="col-lg-6">
+          <div class="row img-twice position-relative h-100">
+            <div class="col-6" data-aos="fade-up" data-aos-duration="2000">
+              <img class="img-fluid rounded"  src="https://th.bing.com/th/id/R.d42708ef67bd4b55a9ff29346cfa9a62?rik=3fe1CAqzwbZJZg&pid=ImgRaw&r=0" >
             </div>
-          </div>
-          <div class="col-lg-5">
-            <div class="card card-tiger-bg-about mt-1">
-              <div class="card-body">
-                <h5 class="card-title"> Why choose Us? </h5>
-                <hr class="hr-card-tiger">
-                <p class="card-text ti-4" style="color: white;">
-                </p>
-                <button type="button" data-toggle="model" data-target="#why_choose" class="btn btn-readmore-tiger waves-effect waves-light">Read more</button>
-              </div>
+            <div class="col-6 align-self-end" data-aos="fade-up" data-aos-duration="2000">
+              <img class="img-fluid rounded" src="https://i.pinimg.com/originals/78/cc/58/78cc58169215ab9145cbfbb46801ed7d.jpg">
             </div>
           </div>
         </div>
-        <div class="row pt-3">
-          <div class="col-lg-12">
-            <div class="card">
-              <div class="row no-gutterrs">
-                <div class="col-md-7">
-                  <img src="https://images.unsplash.com/photo-1530027644375-9c83053d392e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" alt="..." class="card-img-top h-100 card-branner-left-right" style="min-height: 250px;">
-                </div>
-                <div class="col-md-5" style="background: none 0% 0% repeat scroll rgb(68, 68, 68);">
-                  <div class="card-body" style="background: rgb(68, 68, 68);">
-                    <h5 class="card-title" style="color: white;">
-                      <span style="color: yellow;"> THE TIGER TEAM </span>
-                      <br>
-                      <span> ACADEMY</span>
-                    </h5>
-                    <p class="card-text ti-4" style="color: white;">
-                    </p>
-                    <button type="button" data-toggle="model" data-target="#m__history" class="btn btn-readmore-history-2-tiger waves-effect waves-light">Read more </button>
-                  </div>
-                </div>
+      <div class="col-lg-6">
+        <div class="h-100" data-aos="fade-down"
+     data-aos-easing="linear"
+     data-aos-duration="1500">
+          <p class="text-primary text-uppercase mb-2">// WHY CHOOSE US</p>
+          <h1 class="display-6 mb-4">The Tiger Team Academy</h1>
+          <p></p>
+          <p></p>
+          <div class="row g-2 mb-4">
+              <div class="col-sm-6">
+                <i class="fa text-primary me-2">
+                </i>
+                "Quality Products"
               </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+<section id="section2.1">
+  <div class="container-xxl py-6">
+    <div class="container">
+      <div class="row g-5">
+        <div class="col-lg-6" data-aos="fade-down"
+     data-aos-easing="linear"
+     data-aos-duration="1500">
+          <p class="text-primary text-uppercase mb-2">// OBJECTIVE</p>
+          <h1 class="display-6 mb-4">What Do We Offer For You?</h1>
+          <div class="row gy-5 gx-4" data-aos="fade-down"
+     data-aos-easing="linear"
+     data-aos-duration="1500">
+            <div class="col-sm-6">
+              <div class="d-flex align-items-center mb-3">
+                <div class="flex-shrink--0 btn-square bg-primary rounded-circle me-3">
+                  <i class="fa-solid fa-briefcase"></i>
+                </div>
+                <h5 class="mb-0">Entrepreneur</h5>
+              </div>
+              <span>ต้องการสร้างผู้ประกอบการที่มีความสามารถมาพัฒนาประเทศ เพื่อนคืนสู่สังคม</span>
+            </div>
+            <div class="col-sm-6">
+              <div class="d-flex align-items-center mb-3">
+                <div class="flex-shrink--0 btn-square bg-primary rounded-circle me-3">
+                  <i class="fa-solid fa-user-graduate"></i>
+                </div>
+                <h5 class="">Education</h5>
+              </div>
+              <span>ต้องการสร้างบุุคลากรที่มีความรู้ความสามารถด้านภาษาและเทคโนโลยีเพื่อที่จะได้นำไปศึกษาต่อในมหาวิทยาลัยชั้นนำของโลก</span>
+            </div>
+            <div class="col-sm-6">
+                <div class="d-flex align-items-center mb-3">
+                  <div class="flex-shrink--0 btn-square bg-primary rounded-circle me-3">
+                    <i class="fa-solid fa-school"></i>
+                  </div>
+                  <h5 class="mb-0">Secure</h5>
+                </div>
+                <span>สร้างวัฒนธรรมองค์กรให้แข็งแกร่ง</span>
+            </div>
+            <div class="col-sm-6">
+              <div class="d-flex align-item-center mb-3">
+                <div class="flex-shrink--0 btn-square bg-primary rounded-circle me-3">
+                  <i class="fa ">
+                    ::4
+                  </i>
+                </div>
+                <h5 class="mb-0">Quality Product</h5>
+              </div>
+              <span>Megna sea eos Sitt dolor, ipsum amet ipsum lorem diam eos</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6" data-aos="fade-up" data-aos-duration="3000">
+            <div class="row img-teice position-relative h-100">
+            <br>
+            <div class="col-6">
+              <img class="img-fluid rounded" src="https://th.bing.com/th/id/R.4f5ad6604ee41d6633c4b7ccebfb26e1?rik=sVkuCf32rpw48g&riu=http%3a%2f%2fwww.filmapia.com%2fmedia%2fimages%2fproperty%2fMelody_Ranch_Motion_Picture_Studio-d41d8cd98f00b204e9800998ecf8427e.jpg&ehk=6tCeDJ20lyb99sIhQ4qCQjTaCq860i4mFO%2fP9iWMDss%3d&risl=&pid=ImgRaw&r=0" alt="">
+            </div>
+            <div class="col-6">
+              <img class="img-fluid rounded" src="https://imagevars.gulfnews.com/2020/07/03/reader-picture_173151c21ca_original-ratio.jpg" alt="">
             </div>
           </div>
         </div>
@@ -107,11 +153,13 @@
   </div>
 </section>
 
+
+
 <section class="makhan"  id="section3">
 <div class="container-1">
-    <div class="left"></div>
+    <div  class="left"></div>
     <div class="right">
-      <div class="content">
+      <div class="content" data-aos="zoom-in" data-aos-duration="2000">
         <h2>The Tiger <br>Team Academy <p>"About"</p></h2>
         <p>โครงการ The Tiger Team Academy เป็นสถานที่สร้างสภาพแวดล้อมให้เหมาะสมกับการสร้างบุคลากร
         ด้านนวัตกรรมและเทคโนโลยี บ่มเพาะให้เป็นผู้ประกอบการที่มีความสามารถ  นำไปสู่การสร้างชาติเปลี่ยนโลก
@@ -133,7 +181,7 @@
         </div>
       <div class="row">
           <div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="single-team">
+                <div class="single-team" data-aos="fade-down" data-aos-duration="1000">
                   <div class="img-area">
                     <img src="../assets/1.png" class="img-responsive" style="max-width: 1000px;">
                   </div>
@@ -143,7 +191,7 @@
                 </div>
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="single-team">
+                <div class="single-team" data-aos="fade-down" data-aos-duration="2000">
                   <div class="img-area">
                     <img src="../assets/2.png" class="img-responsive">
                   </div>
@@ -153,7 +201,7 @@
                 </div>
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="single-team">
+                <div class="single-team" data-aos="fade-down" data-aos-duration="3000">
                   <div class="img-area">
                     <img src="../assets/3.png" class="img-responsive">
                   </div>
@@ -186,15 +234,15 @@
               "ได้รับความรู้ด้านการเป็นผู้ประกอบการจากผู้มีประสบการณ์ตรง และบริษัทในเครือ"
             </p>
            </div>
-           <div>
-           <img src="https://www.mendetails.com/wp-content/uploads/2021/01/04-%E0%B8%81%E0%B8%8E%E0%B8%9E%E0%B8%B4%E0%B8%8B%E0%B8%8B%E0%B9%88%E0%B8%B2-2-%E0%B8%96%E0%B8%B2%E0%B8%94-two-pizza-rule-office-worker-meeting-jan21.jpg" alt="" class="card-img-top" style="height:250px;">
+           <div data-aos="fade-left" data-aos-duration="1000">
+           <img src="../assets/S52.jpg" alt="" class="card-img-top" style="height:250px;">
            </div> 
           </div>
         </div>
         <div class="col-lg-4 p-0">
           <div class="card border-0 card-tiger-bg-picture-bottom">
-            <div>
-            <img src="https://digital.ihg.com/is/image/ihg/Conventions_Meeting_480x320" alt="" class="card-img-top" style="height:250px;">
+            <div data-aos="fade-left" data-aos-duration="2000">
+            <img src="../assets/S54.jpg" alt="" class="card-img-top" style="height:250px;">
             </div>
             <div class="card-body" style="background: rgb(250, 187, 105); min-height: 250px;">
             <h5 class="card-title">
@@ -220,8 +268,8 @@
             "ได้รับความรู้ด้านภาษาต่างประเทศควบคู่กับความรู้ด้านเศรษฐศาสตร์ จากนักธุรกิจผู้มีประสบการณ์ด้านต่างประเทศโดยตรง"
             </p>
             </div>
-           <div>
-              <img src="https://www.scglogistics.co.th/wp-content/uploads/2020/05/how-to-meeting-effectively.jpg" alt="" class="card-img-top" style="height:250px;">
+           <div data-aos="fade-left" data-aos-duration="2000">
+              <img src="../assets/S53.jpg" alt="" class="card-img-top" style="height:250px;">
            </div>
           </div>
         </div>
@@ -238,15 +286,15 @@
             "ได้รับทุนค่าครองชีพเมื่อมีความสามารถตามที่บริษัทในเครือกำหนด"
             </p>
            </div>
-           <div>
-           <img src="https://s.isanook.com/mn/0/rp/rc/w850h510/yatxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL21uLzAvdWQvOTIvNDY0NDczL21vbjIyMDI2MDIuanBnLmpwZw==.jpg" alt="" class="card-img-top" style="height:250px;">
+           <div data-aos="fade-left" data-aos-duration="2000">
+           <img src="../assets/S56.jpg" alt="" class="card-img-top" style="height:250px;">
            </div> 
           </div>
         </div>
          <div class="col-lg-4 p-0">
           <div class="card border-0 card-tiger-bg-picture-bottom">
-            <div>
-            <img src="https://st.depositphotos.com/1000917/5157/i/600/depositphotos_51578979-stock-photo-musicians-playing-violins.jpg" alt="" class="card-img-top" style="height:250px;">
+            <div data-aos="fade-left" data-aos-duration="2000">
+            <img src="../assets/S51.jpg" alt="" class="card-img-top" style="height:250px;">
             </div>
             <div class="card-body" style="background:  rgb(250, 187, 105); min-height: 250px;">
             <h5 class="card-title">
@@ -274,8 +322,8 @@
             "ได้รับการดูแลด้านที่พักและด้านอาหารอย่างครบถ้วน"
             </p>
             </div>
-           <div>
-              <img src="https://www.toagroup.com/storage/default-album/painting-1-600X315.jpg" alt="" class="card-img-top" style="height:250px;">
+           <div data-aos="fade-left" data-aos-duration="2000">
+              <img src="../assets/S55.jpg" alt="" class="card-img-top" style="height:250px;">
            </div>
           </div>
         </div>
@@ -291,7 +339,9 @@
        <div class="address details">
          <i class="fas fa-map-marker-alt"></i>
          <div class="topic" >Address</div>
-         <div class="text-one">481/15 บ.โปร่งดินสอ ต.โคกกรวด</div>
+         <div class="text-one">
+           <p>481/15 บ.โปร่งดินสอ <br> ต.โคกกรวด</p>
+         </div>
          <div class="text-two">อ.เมืองนครราชสีมา จ.นครราชสีมา 30280</div>
        </div>
 
@@ -346,6 +396,13 @@ export default {
 </script>
 
 <style>
+:root {
+    --primary: #EAA636;
+    --secondary: #545454;
+    --light: #FDF5EB;
+    --dark: #1E1916;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
@@ -784,6 +841,43 @@ body {
    width: 100%;
    margin-left: 0;
   }
+}
+
+.py-6 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    background-color: rgb(202, 251, 237);
+}
+.py-6-2 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    background-color: rgb(255, 217, 236);
+}
+.img-twice::before {
+    position: absolute;
+    content: "";
+    width: 60%;
+    height: 80%;
+    top: 10%;
+    left: 20%;
+    background: var(--primary);
+    border: 25px solid var(--light);
+    border-radius: 6px;
+    z-index: -1;
+}
+.btn-square, .btn-sm-square, .btn-lg-square {
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: normal;
+}
+.btn-square {
+    width: 38px;
+    height: 38px;
+}
+h4, h5, h6, .h4, .h5, .h6 {
+    font-weight: 600 !important;
 }
 
 </style>

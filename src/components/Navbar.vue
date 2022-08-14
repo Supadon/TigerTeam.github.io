@@ -311,7 +311,7 @@ The mission of The Tiger Team Academy is also to provide support , unmatched any
                 </div>
                 <div class="img-text">
                   <h4>
-                    Wirat Siphatthanasakun
+                    Wiraj Sripattanasakul
                   </h4>
                 </div>
               </div>

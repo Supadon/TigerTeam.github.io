@@ -1,5 +1,5 @@
 <template>
-    <img src="../src/assets/ComingSoon.png" class="img-fluid" alt="">
+<img src="../src/assets/ComingSoon.png" class="img-fluid image" alt="">
 </template>
 
 <script>
@@ -9,9 +9,10 @@ export default {
 </script>
 
 <style>
- html, body {
-    margin: 0;
-    padding: 0;
+image {
+  width: 100%;
+  background-size: cover;
 }
 
+html,body { padding: 0 !important;}
 </style>

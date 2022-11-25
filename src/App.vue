@@ -12,6 +12,7 @@ export default {
 image {
   width: 100%;
   background-size: cover;
+  background-position: center;
 }
 
 html,body { padding: 0 !important;}
